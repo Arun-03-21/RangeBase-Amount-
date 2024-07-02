@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQtN+brMVNtgUxcUf0F5DISXqkZCCZTIpiOUx5v9m2v/kn3cUFF5dhOY2oaVyHgfYg8tOjSIIJ6HGwnL6Nfflw==",
+  "success": true,
+  "projectFilePath": "X:\\RangeBase\\RangeBase\\RangeBase\\RangeBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

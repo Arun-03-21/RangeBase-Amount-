@@ -1,0 +1,14 @@
+X:\RangeBase\RangeBase\RangeBase\bin\Debug\netcoreapp3.1\RangeBase.exe
+X:\RangeBase\RangeBase\RangeBase\bin\Debug\netcoreapp3.1\RangeBase.deps.json
+X:\RangeBase\RangeBase\RangeBase\bin\Debug\netcoreapp3.1\RangeBase.runtimeconfig.json
+X:\RangeBase\RangeBase\RangeBase\bin\Debug\netcoreapp3.1\RangeBase.runtimeconfig.dev.json
+X:\RangeBase\RangeBase\RangeBase\bin\Debug\netcoreapp3.1\RangeBase.dll
+X:\RangeBase\RangeBase\RangeBase\bin\Debug\netcoreapp3.1\RangeBase.pdb
+X:\RangeBase\RangeBase\RangeBase\obj\Debug\netcoreapp3.1\RangeBase.csproj.AssemblyReference.cache
+X:\RangeBase\RangeBase\RangeBase\obj\Debug\netcoreapp3.1\RangeBase.GeneratedMSBuildEditorConfig.editorconfig
+X:\RangeBase\RangeBase\RangeBase\obj\Debug\netcoreapp3.1\RangeBase.AssemblyInfoInputs.cache
+X:\RangeBase\RangeBase\RangeBase\obj\Debug\netcoreapp3.1\RangeBase.AssemblyInfo.cs
+X:\RangeBase\RangeBase\RangeBase\obj\Debug\netcoreapp3.1\RangeBase.csproj.CoreCompileInputs.cache
+X:\RangeBase\RangeBase\RangeBase\obj\Debug\netcoreapp3.1\RangeBase.dll
+X:\RangeBase\RangeBase\RangeBase\obj\Debug\netcoreapp3.1\RangeBase.pdb
+X:\RangeBase\RangeBase\RangeBase\obj\Debug\netcoreapp3.1\RangeBase.genruntimeconfig.cache
